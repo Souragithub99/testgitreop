@@ -1,2 +1,2 @@
 # testgitreop
-Only gor tcs internal 
+Only for internal 
